@@ -1,0 +1,7 @@
+My thoughts about CMSC 100
+
+I entered the classroom knowing nothing but the fact that CMSC 100 is about Web Programming. 
+Learning that we have to utilize GitHub was exciting, but at the same time it was mortifying.
+GitHub is a scary place. I have had already faced difficulties just setting it up and learning 
+how the basic stuff work. Thankfully, I passed through them with others' help. I hope I 
+will be able to pass through future difficulties as well.
