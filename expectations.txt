@@ -5,3 +5,5 @@ Learning that we have to utilize GitHub was exciting, but at the same time it wa
 GitHub is a scary place. I have had already faced difficulties just setting it up and learning 
 how the basic stuff work. Thankfully, I passed through them with others' help. I hope I 
 will be able to pass through future difficulties as well.
+
+Comments: We're in the same boat. Github is a bit overwhelming at first, but hopefully we will be able to master it in the coming weeks. Let's help each other!
